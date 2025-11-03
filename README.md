@@ -18,6 +18,11 @@ To understand how public health spending relates to key health outcomes in Afric
 ## 📈 Results
 Visualizations highlight the relationship between healthcare spending and under-5 mortality trends. The OLS model shows statistically significant correlations in several cases.
 
+## 💻 Run it Yourself
+You can open and run this notebook directly on Google Colab:  
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fjnelima-pixel/health_analytics_project/blob/main/health_analysis.ipynb)
+
 ## 📦 Requirements
 pandas
 seaborn
